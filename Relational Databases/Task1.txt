@@ -1,0 +1,13 @@
+Normalisation: a process of evaluating and correcting table structures in order to minimize
+date redundancies and data anomalies. 
+
+1NF: A table is in 1NF when all key attributes are defined, there are no repeating groups in the table,
+and all attributes are dependent on the primary key.
+ 
+2NF: A table is in 2NF when it is in 1NF and it includes no partial dependencies; meaning, no attribute
+is dependent on only a portion of the primary key. 
+
+3NF: A table is in 3NF when it is in 2NF and it contains no transitive dependencies.
+
+Foreign key: columns that link to primary key columns in other tables, thereby 
+creating a relationship
