@@ -1,24 +1,13 @@
-'''==== Capstone project template ====
-This template provides the skeleton code to start compulsory task 1 only.
-Once you have successfully implemented compulsory task 1 it will be easier to
-add code for compulsory task 2 and complete this capstone'''
 
 #=====importing libraries===========
-'''This is the section where you will import libraries'''
 from datetime import date
 import datetime
 
 #====Login Section====
-'''Here you will write code that will allow a user to login.
-    - Your code must read usernames and password from the user.txt file
-    - You can use a list or dictionary to store a list of usernames and passwords from the file.
-    - Use a while loop to validate your user name and password.
-'''
 
 '''-------------Functions---------------------'''
 def reg_user():
-    '''In this block you will write code to add a new user to the user.txt file
-        - You can follow the following steps:
+    '''Add a new user to the user.txt file
             - Request input of a new username
             - Request input of a new password
             - Request input of password confirmation.
@@ -59,8 +48,7 @@ def reg_user():
 
 
 def add_task():
-    '''In this block you will put code that will allow a user to add a new task to task.txt file
-        - You can follow these steps:
+    '''Allow a user to add a new task to task.txt file
             - Prompt a user for the following: 
                 - A username of the person whom the task is assigned to,
                 - A title of a task,
@@ -84,9 +72,8 @@ def add_task():
 
 
 def view_all():
-    '''In this block you will put code so that the program will read the task from task.txt file and
+    '''Read the task from task.txt file and
          print to the console in the format of Output 2 presented in the L1T19 pdf file page 6
-         You can do it in this way:
             - Read a line from the file.
             - Split that line where there is comma and space.
             - Then print the results in the format shown in the Output 2 in L1T19 pdf
@@ -110,9 +97,8 @@ def view_all():
 
 
 def view_mine():
-    '''In this block you will put code the that will read the task from task.txt file and
+    '''Read the task from task.txt file and
         print to the console in the format of Output 2 presented in the L1T19 pdf
-        You can do it in this way:
         - Read a line from the file
         - Split the line where there is comma and space.
         - Check if the username of the person logged in is the same as the username you have
@@ -284,8 +270,6 @@ The percentage of overdue tasks:                {overdue_percentage}%
 
 def view_stats():
     ''' Read the number of tasks and users and display them.
-    You alreay have the number of tasks in the 'user_counter' variable.
-    Creat a for loop to get the number of users.
     '''
     user_counter = 0
     task_counter = 0
