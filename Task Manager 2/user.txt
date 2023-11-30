@@ -1,0 +1,12 @@
+admin, adm1n
+mo, mo1
+me, me1
+mu, mu1
+s, s1
+r, r1
+le, le1
+hf, h
+t, t
+q, q
+back, back1
+mo, mo1

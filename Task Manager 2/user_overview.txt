@@ -1,0 +1,108 @@
+
+For User:admin
+Total number of tasks:                          2
+Total number of completed tasks:                0
+Total number of incompleted tasks:              2
+Total number of incompleted and overdue tasks:  2
+The percentage of incompleted tasks:            28.57%
+The percentage of overdue tasks:                28.57%
+
+
+For User:mo
+Total number of tasks:                          1
+Total number of completed tasks:                0
+Total number of incompleted tasks:              1
+Total number of incompleted and overdue tasks:  1
+The percentage of incompleted tasks:            14.29%
+The percentage of overdue tasks:                14.29%
+
+
+For User:me
+Total number of tasks:                          1
+Total number of completed tasks:                0
+Total number of incompleted tasks:              1
+Total number of incompleted and overdue tasks:  1
+The percentage of incompleted tasks:            14.29%
+The percentage of overdue tasks:                14.29%
+
+
+For User:mu
+Total number of tasks:                          0
+Total number of completed tasks:                0
+Total number of incompleted tasks:              0
+Total number of incompleted and overdue tasks:  0
+The percentage of incompleted tasks:            0.0%
+The percentage of overdue tasks:                0.0%
+
+
+For User:s
+Total number of tasks:                          1
+Total number of completed tasks:                0
+Total number of incompleted tasks:              1
+Total number of incompleted and overdue tasks:  1
+The percentage of incompleted tasks:            14.29%
+The percentage of overdue tasks:                14.29%
+
+
+For User:r
+Total number of tasks:                          0
+Total number of completed tasks:                0
+Total number of incompleted tasks:              0
+Total number of incompleted and overdue tasks:  0
+The percentage of incompleted tasks:            0.0%
+The percentage of overdue tasks:                0.0%
+
+
+For User:le
+Total number of tasks:                          0
+Total number of completed tasks:                0
+Total number of incompleted tasks:              0
+Total number of incompleted and overdue tasks:  0
+The percentage of incompleted tasks:            0.0%
+The percentage of overdue tasks:                0.0%
+
+
+For User:hf
+Total number of tasks:                          0
+Total number of completed tasks:                0
+Total number of incompleted tasks:              0
+Total number of incompleted and overdue tasks:  0
+The percentage of incompleted tasks:            0.0%
+The percentage of overdue tasks:                0.0%
+
+
+For User:t
+Total number of tasks:                          0
+Total number of completed tasks:                0
+Total number of incompleted tasks:              0
+Total number of incompleted and overdue tasks:  0
+The percentage of incompleted tasks:            0.0%
+The percentage of overdue tasks:                0.0%
+
+
+For User:q
+Total number of tasks:                          0
+Total number of completed tasks:                0
+Total number of incompleted tasks:              0
+Total number of incompleted and overdue tasks:  0
+The percentage of incompleted tasks:            0.0%
+The percentage of overdue tasks:                0.0%
+
+
+For User:back
+Total number of tasks:                          0
+Total number of completed tasks:                0
+Total number of incompleted tasks:              0
+Total number of incompleted and overdue tasks:  0
+The percentage of incompleted tasks:            0.0%
+The percentage of overdue tasks:                0.0%
+
+
+For User:mo
+Total number of tasks:                          1
+Total number of completed tasks:                0
+Total number of incompleted tasks:              1
+Total number of incompleted and overdue tasks:  1
+The percentage of incompleted tasks:            14.29%
+The percentage of overdue tasks:                14.29%
+
